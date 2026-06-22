@@ -11,17 +11,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a **Computer Science Graduate** and aspiring **software engineer** passionate about building practical and impactful software. My interests include **full-stack web development**, **mobile application development** and **machine learning**. I enjoy solving real-world problems, learning new technologies, and turning ideas into functional applications.
-
-- 🌱 Currently improving my skills in **AI, Machine Learning, Full-Stack Development, and Cybersecurity**
-- 💻 Building with **Flutter, React, Next.js, Django, Flask, Node.js, PostgreSQL, Firebase, and Python**
-- 🎯 Focused on creating **scalable, secure, and user-friendly applications**
-- 🚀 Always learning through projects, experimentation, and continuous practice
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
