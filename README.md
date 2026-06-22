@@ -119,10 +119,6 @@ https://yehulu-hotel.vercel.app/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedyshimelis1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedyshimelis1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
